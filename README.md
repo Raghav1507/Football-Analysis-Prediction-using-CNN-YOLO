@@ -9,7 +9,7 @@ The following modules are used in this project:
 - Kmeans: Pixel segmentation and clustering to detect t-shirt color
 - Optical Flow: Measure camera movement
 - Perspective Transformation: Represent scene depth and perspective
-- Speed and distance calculation per player
+- Speed and distance calculation per players
 
 ## Trained Models
 - [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
